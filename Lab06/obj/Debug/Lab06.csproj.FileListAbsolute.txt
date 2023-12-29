@@ -1,0 +1,10 @@
+C:\C#\Lab06\bin\Debug\Lab06.exe.config
+C:\C#\Lab06\bin\Debug\Lab06.exe
+C:\C#\Lab06\bin\Debug\Lab06.pdb
+C:\C#\Lab06\obj\Debug\Lab06.csproj.AssemblyReference.cache
+C:\C#\Lab06\obj\Debug\Lab06.csproj.CoreCompileInputs.cache
+C:\C#\Lab06\obj\Debug\Lab06.exe
+C:\C#\Lab06\obj\Debug\Lab06.pdb
+C:\C#\Lab06\bin\Debug\Newtonsoft.Json.dll
+C:\C#\Lab06\bin\Debug\Newtonsoft.Json.xml
+C:\C#\Lab06\obj\Debug\Lab06.csproj.CopyComplete

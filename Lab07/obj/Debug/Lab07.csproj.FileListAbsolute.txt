@@ -1,0 +1,11 @@
+C:\C#\Lab07\obj\Debug\Lab07.csproj.AssemblyReference.cache
+C:\C#\Lab07\obj\Debug\Lab07.csproj.CoreCompileInputs.cache
+C:\C#\Lab07\bin\Debug\Lab07.exe.config
+C:\C#\Lab07\bin\Debug\Lab07.exe
+C:\C#\Lab07\bin\Debug\Lab07.pdb
+C:\C#\Lab07\bin\Debug\AnimalClasses.exe
+C:\C#\Lab07\bin\Debug\AnimalClasses.pdb
+C:\C#\Lab07\bin\Debug\AnimalClasses.exe.config
+C:\C#\Lab07\obj\Debug\Lab07.csproj.CopyComplete
+C:\C#\Lab07\obj\Debug\Lab07.exe
+C:\C#\Lab07\obj\Debug\Lab07.pdb

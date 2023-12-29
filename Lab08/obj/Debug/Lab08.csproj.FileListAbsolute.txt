@@ -1,0 +1,11 @@
+C:\C#\Lab08\obj\Debug\Lab08.csproj.AssemblyReference.cache
+C:\C#\Lab08\obj\Debug\Lab08.csproj.CoreCompileInputs.cache
+C:\C#\Lab08\bin\Debug\Lab08.exe.config
+C:\C#\Lab08\bin\Debug\Lab08.exe
+C:\C#\Lab08\bin\Debug\Lab08.pdb
+C:\C#\Lab08\bin\Debug\AnimalClasses.exe
+C:\C#\Lab08\bin\Debug\AnimalClasses.pdb
+C:\C#\Lab08\bin\Debug\AnimalClasses.exe.config
+C:\C#\Lab08\obj\Debug\Lab08.csproj.CopyComplete
+C:\C#\Lab08\obj\Debug\Lab08.exe
+C:\C#\Lab08\obj\Debug\Lab08.pdb
